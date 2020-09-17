@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\minia\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\minia\\.nuget\\packages"
+    ]
+  }
+}
